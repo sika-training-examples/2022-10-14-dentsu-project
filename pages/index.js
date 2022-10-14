@@ -2,7 +2,7 @@ import React from "react";
 import "normalize.css";
 
 const style = {
-  backgroundColor: "grey",
+  backgroundColor: "lightblue",
   height: "100vh",
   margin: 0,
   padding: 10,
