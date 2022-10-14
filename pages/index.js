@@ -16,6 +16,7 @@ const Index = () => {
         This is a super cool project that Dentsu is working on. It's going to be
         legendary.
       </p>
+      <p>&copy; 2022</p>
     </div>
   );
 };
